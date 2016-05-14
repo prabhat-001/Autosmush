@@ -12,7 +12,7 @@ expires header on your images to aid in browser caching as recommended by
 Autosmush can be run manually or as a cron job. It avoids re-smushing images by checking for an
 'x-amz-smushed' HTTP header on already processed images.
 
-FEATURES
+FEATURESs
 --------
 
  * Smushed images are automatically re-uploaded into S3
